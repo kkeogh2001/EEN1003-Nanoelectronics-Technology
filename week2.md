@@ -11,7 +11,7 @@
   $$
   where:  
   $$ m $$ = mass,  
-  $$ U(x) $$ = potential energy[1].
+  $$ U(x) $$ = potential energy.
 - **Physical Meaning:** The wavefunction $$\Psi(x, t)$$ describes the quantum state—its squared modulus $$|\Psi(x, t)|^2$$ gives the probability of finding a particle at $$ x $$ and time $$ t $$.
 - The **Hamiltonian operator** represents total energy:  
   $$ \hat{H} = -\frac{\hbar^2}{2m}\frac{\partial^2}{\partial x^2} + U(x) $$.
@@ -44,7 +44,7 @@
   $$
   \Delta x \Delta p \geq \frac{\hbar}{2}
   $$
-- This sets fundamental quantum limits on measurement accuracy and predicts spread in energy and position[1].
+- This sets fundamental quantum limits on measurement accuracy and predicts spread in energy and position.
 
 ### Quantum Tunneling
 
@@ -61,7 +61,7 @@
 - **Atoms:** Defined by atomic number ($$ Z $$), mass ($$ A $$), valence electrons determine chemical properties.
 - **Solid states:**
   - *Crystalline*: Atoms have a long-range, regular (periodic) arrangement.
-  - *Amorphous*: No long-range order[1].
+  - *Amorphous*: No long-range order.
 - **Lattice:** The repeating geometric arrangement in a crystal.
   - *Unit cell*: The smallest repeating unit.
   - *Bravais lattice*: One of 14 symmetrical ways to fill space in 3D.
