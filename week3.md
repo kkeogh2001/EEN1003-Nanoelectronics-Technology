@@ -9,7 +9,7 @@
   $$
   d_{hkl} = \frac{a}{\sqrt{h^2 + k^2 + l^2}}
   $$
-  where $$ a $$ is the lattice constant[1].
+  where $$ a $$ is the lattice constant.
 - **Directions:** Given as [u v w], related to Miller indices, specify directions in the lattice.
 
 ### Major Semiconductor Crystal Structures
@@ -30,7 +30,7 @@
 ### Crystal Defects
 
 **Point Defects**
-- *Vacancy*: Missing atom creates unsatisfied bonds (dangling bonds), distorts lattice[1].
+- *Vacancy*: Missing atom creates unsatisfied bonds (dangling bonds), distorts lattice.
 - *Interstitial*: Atom sits between regular lattice positions.
 - *Substitutional impurities*: Foreign atom replaces host atom, changes electrical properties (dopants in semiconductors).
 
@@ -45,12 +45,12 @@
 
 ### Reciprocal Lattice
 
-- Mathematical construct to describe periodicity, important for understanding X-ray diffraction and electronic band structure[1].
+- Mathematical construct to describe periodicity, important for understanding X-ray diffraction and electronic band structure.
 - Each family of real crystal planes links to a vector in reciprocal space; length of vector inversely proportional to plane spacing.
 
 ### Excitons (Electron-Hole Pairs)
 
-- **Exciton:** Bound state of an electron and a hole (analogy: positronium in atoms)[1].
+- **Exciton:** Bound state of an electron and a hole (analogy: positronium in atoms).
 - *Mott-Wannier exciton*: Weakly bound, spreads over many lattice sites; dominant in most semiconductors (e.g., GaAs).
 - *Frenkel exciton*: Strongly bound, localized; important in molecular crystals.
 - **Binding energy of exciton (for GaAs, example values):**
